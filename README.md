@@ -162,3 +162,13 @@ The Sweet Rise Bakery website consists of five main pages:
         +------------------+------------------+
                            |
                          CONTACT
+
+| Image         | Photographer      | Source |
+| ------------- | ----------------- | ------ |
+| Home/Bread    | Towfiqu barbhuiya | Pexels |
+| About         | Patricio Ledeill  | Pexels |
+| Buns & Rolls  | Anna Tarazevich   | Pexels |
+| Cakes         | Maxine Xin        | Pexels |
+| Pastries      | Valeria Boltneva  | Pexels |
+| Confectionery | Şeyhmus Kino      | Pexels |
+
