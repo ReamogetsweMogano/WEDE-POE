@@ -163,6 +163,8 @@ The Sweet Rise Bakery website consists of five main pages:
                            |
                          CONTACT
 
+REFERENCES
+
 | Image         | Photographer      | Source |
 | ------------- | ----------------- | ------ |
 | Home/Bread    | Towfiqu barbhuiya | Pexels |
@@ -171,4 +173,6 @@ The Sweet Rise Bakery website consists of five main pages:
 | Cakes         | Maxine Xin        | Pexels |
 | Pastries      | Valeria Boltneva  | Pexels |
 | Confectionery | Şeyhmus Kino      | Pexels |
+
+OpenAI. (2026). Chat-GPT (Version 5.6). [Large language model]. Available at: https://chatgpt.com/share/6a7f4e7b-2eb0-83ea-b284-e8c452a55202/ [Accessed: 12 August 2026].
 
